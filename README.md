@@ -81,6 +81,10 @@ integrating clear navigation flow and organized visual hierarchy, the system dem
 effective desktop shopping experience can be achieved using fundamental GUI and event-driven 
 programming concepts. 
 
+![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20224433.png)
+![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20214837.png)
+![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20224458.png)
+![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20224541.png)
 
 
 ## Table Design ##
@@ -105,7 +109,9 @@ a specific user and product. The quantity column stores how many units of a prod
 and the added_at timestamp records when the item was added. This table supports multiple 
 products per user and acts as an intermediary between user activity and the product inventory.
 
+
 ![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20214837.png)
+
 
 ## Back End Design ##
 
@@ -122,6 +128,8 @@ statements and efficient data manipulation through prepared statements. The goal
 is to provide reliable data flow and logical consistency across all shopping operations including 
 login, signup, product browsing, and cart management without relying on external frameworks.
 
+
 ![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20221051.png)
+
 
 
