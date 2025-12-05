@@ -82,8 +82,9 @@ effective desktop shopping experience can be achieved using fundamental GUI and 
 programming concepts. 
 
 ![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20224433.png)
-![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20214837.png)
+
 ![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20224458.png)
+
 ![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20224541.png)
 
 
