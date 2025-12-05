@@ -105,7 +105,7 @@ a specific user and product. The quantity column stores how many units of a prod
 and the added_at timestamp records when the item was added. This table supports multiple 
 products per user and acts as an intermediary between user activity and the product inventory.
 
-
+![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20214837.png)
 
 ## Back End Design ##
 
@@ -121,4 +121,7 @@ handled using JDBC (Java Database Connectivity). This allows secure execution of
 statements and efficient data manipulation through prepared statements. The goal of the backend 
 is to provide reliable data flow and logical consistency across all shopping operations including 
 login, signup, product browsing, and cart management without relying on external frameworks.
+
+![image alt](https://github.com/ryanzone/ShoppingCartSystem/blob/master/Screenshot%202025-11-04%20221051.png)
+
 
